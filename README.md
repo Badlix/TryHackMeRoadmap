@@ -33,7 +33,7 @@
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **10**      |                           |
+| **[Introductory Rooms](#intro-rooms)**            |     **10**      |         **1**             |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
@@ -68,8 +68,6 @@
 - [x] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
 - [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
-
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
 
 - [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
