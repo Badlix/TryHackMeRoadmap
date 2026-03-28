@@ -33,7 +33,7 @@
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |      **9**      |         **3**             |
+| **[Introductory Rooms](#intro-rooms)**            |      **9**      |         **4**             |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
@@ -59,7 +59,7 @@
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **377**     |         **3**             |
+| **Total Rooms:**                                  |     **377**     |         **4**             |
 
 ## Intro Rooms
 
@@ -71,7 +71,7 @@
 
 - [x] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
-- [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [x] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
 - [ ] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
