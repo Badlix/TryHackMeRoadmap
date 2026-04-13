@@ -34,9 +34,9 @@
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
 | **[Introductory Rooms](#intro-rooms)**            |      **9**      |         **8**             |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |                           |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |         **2**             |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
-| **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
+| **[Basic Rooms](#basics-rooms)**                  |      **9**      |         **1**             |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
 | **[Scripting](#scripting)**                       |      **8**      |                           |
 | **[Networking](#networking)**                     |      **7**      |                           |
@@ -59,7 +59,7 @@
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **377**     |         **8**             |
+| **Total Rooms:**                                  |     **377**     |         **11**            |
 
 ## Intro Rooms
 
@@ -111,7 +111,7 @@
 
 ---
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [x] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 - [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
