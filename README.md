@@ -37,7 +37,7 @@
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |         **2**             |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |         **2**             |
-| **[Reconnaissance](#recon)**                      |     **10**      |                           |
+| **[Reconnaissance](#recon)**                      |     **10**      |         **1**             |
 | **[Scripting](#scripting)**                       |      **8**      |         **1**             |
 | **[Networking](#networking)**                     |      **7**      |                           |
 | **[Tooling](#tooling)**                           |     **17**      |                           |
@@ -59,7 +59,7 @@
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **377**     |         **12**            |
+| **Total Rooms:**                                  |     **377**     |         **13**            |
 
 ## Intro Rooms
 
@@ -133,7 +133,7 @@
 
 ---
 
-- [ ] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+- [x] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
 - [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
