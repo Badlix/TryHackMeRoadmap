@@ -40,7 +40,7 @@
 | **[Reconnaissance](#recon)**                      |     **10**      |         **1**             |
 | **[Scripting](#scripting)**                       |      **8**      |         **1**             |
 | **[Networking](#networking)**                     |      **7**      |                           |
-| **[Tooling](#tooling)**                           |     **17**      |                           |
+| **[Tooling](#tooling)**                           |     **17**      |         **1**             |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
 | **[Web](#web)**                                   |     **27**      |                           |
@@ -59,7 +59,7 @@
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **377**     |         **13**            |
+| **Total Rooms:**                                  |     **377**     |         **14**            |
 
 ## Intro Rooms
 
@@ -199,7 +199,7 @@
 
 - [ ] [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)
 
-- [ ] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
+- [x] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 
 - [ ] [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 
