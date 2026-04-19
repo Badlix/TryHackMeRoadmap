@@ -36,7 +36,7 @@
 | **[Introductory Rooms](#intro-rooms)**            |      **9**      |         **8**             |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |         **2**             |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
-| **[Basic Rooms](#basics-rooms)**                  |      **9**      |         **2**             |
+| **[Basic Rooms](#basics-rooms)**                  |      **9**      |         **3**             |
 | **[Reconnaissance](#recon)**                      |     **10**      |         **1**             |
 | **[Scripting](#scripting)**                       |      **8**      |         **1**             |
 | **[Networking](#networking)**                     |      **7**      |                           |
@@ -59,7 +59,7 @@
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **377**     |         **14**            |
+| **Total Rooms:**                                  |     **377**     |         **15**            |
 
 ## Intro Rooms
 
@@ -117,7 +117,7 @@
 
 - [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
-- [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
+- [x] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
