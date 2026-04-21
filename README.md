@@ -40,7 +40,7 @@
 | **[Reconnaissance](#recon)**                      |     **10**      |         **1**             |
 | **[Scripting](#scripting)**                       |      **8**      |         **1**             |
 | **[Networking](#networking)**                     |      **7**      |                           |
-| **[Tooling](#tooling)**                           |     **17**      |         **1**             |
+| **[Tooling](#tooling)**                           |     **17**      |         **2**             |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
 | **[Web](#web)**                                   |     **27**      |                           |
@@ -59,7 +59,7 @@
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **377**     |         **15**            |
+| **Total Rooms:**                                  |     **377**     |         **16**            |
 
 ## Intro Rooms
 
@@ -219,7 +219,7 @@
 
 - [ ] [TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
 
-- [ ] [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
+- [x] [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
 
 - [ ] [TryHackMe | TShark](https://tryhackme.com/room/tshark)
 
