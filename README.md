@@ -40,7 +40,7 @@
 | **[Reconnaissance](#recon)**                      |     **10**      |         **1**             |
 | **[Scripting](#scripting)**                       |      **8**      |         **1**             |
 | **[Networking](#networking)**                     |      **7**      |                           |
-| **[Tooling](#tooling)**                           |     **17**      |         **2**             |
+| **[Tooling](#tooling)**                           |     **17**      |         **3**             |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
 | **[Steganography](#steganography)**               |      **6**      |                           |
 | **[Web](#web)**                                   |     **27**      |                           |
@@ -59,7 +59,7 @@
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
 | **[Special Events](#special-events)**             |      **9**      |                           |
-| **Total Rooms:**                                  |     **377**     |         **18**            |
+| **Total Rooms:**                                  |     **377**     |         **19**            |
 
 ## Intro Rooms
 
@@ -213,7 +213,7 @@
 
 - [ ] [TryHackMe | Phishing: HiddenEye](https://tryhackme.com/room/phishinghiddeneye)
 
-- [ ] [TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
+- [x] [TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
 
 - [ ] [TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
 
