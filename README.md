@@ -38,7 +38,7 @@
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |         **3**             |
 | **[Reconnaissance](#recon)**                      |     **10**      |         **1**             |
-| **[Scripting](#scripting)**                       |      **8**      |         **2**             |
+| **[Scripting](#scripting)**                       |      **8**      |         **3**             |
 | **[Networking](#networking)**                     |      **7**      |                           |
 | **[Tooling](#tooling)**                           |     **17**      |         **3**             |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
@@ -167,7 +167,7 @@
 
 - [ ] [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
 
-- [ ] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
+- [x] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
 - [x] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
