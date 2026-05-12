@@ -6,35 +6,35 @@
 
 </aside>
 
-| Name of Topic                                     | Number of Rooms | Number of Completed Rooms | Free Room count |
-| ------------------------------------------------- | :-------------: | :-----------------------: | :-------------: |
-| **[Introductory Rooms](#intro-rooms)**            |      **9**      |         **9**             |      **9**      |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |         **2**             |      **2**      |
-| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |      **3**      |
-| **[Basic Rooms](#basics-rooms)**                  |      **8**      |         **3**             |      **7**      |
-| **[Reconnaissance](#recon)**                      |      **9**      |         **1**             |      **7**      |
-| **[Scripting](#scripting)**                       |      **7**      |         **3**             |      **6**      |
-| **[Networking](#networking)**                     |      **6**      |                           |      **6**      |
-| **[Tooling](#tooling)**                           |     **17**      |         **3**             |                 |
-| **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |                 |
-| **[Steganography](#steganography)**               |      **6**      |                           |                 |
-| **[Web](#web)**                                   |     **27**      |                           |                 |
-| **[Android](#android)**                           |      **1**      |                           |                 |
-| **[Forensics](#forensics)**                       |      **5**      |                           |                 |
-| **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |                 |
-| **[Reverse Engineering](#reverse-engineering)**   |     **11**      |                           |                 |
-| **[Malware Analysis](#malware-analysis)**         |      **7**      |                           |                 |
-| **[Privilege Escalation](#privesc)**              |     **13**      |                           |                 |
-| **[Windows](#windows)**                           |      **7**      |                           |                 |
-| **[Active Directory](#active-directory)**         |      **5**      |                           |                 |
-| **[PCAP Analysis](#pcap-analysis)**               |      **4**      |                           |                 |
-| **[Buffer Overflow](#bufferoverflow)**            |      **4**      |                           |                 |
-| **[Easy CTF](#easy-ctf)**                         |     **58**      |         **1**             |                 |
-| **[Medium CTF](#medium-ctf)**                     |     **73**      |                           |                 |
-| **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |                 |
-| **[Misc](#misc)**                                 |     **35**      |                           |                 |
-| **[Special Events](#special-events)**             |      **9**      |                           |                 |
-| **Total Rooms:**                                  |     **377**     |         **19**            |                 |
+| Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
+| ------------------------------------------------- | :-------------: | :-----------------------: |
+| **[Introductory Rooms](#intro-rooms)**            |      **9**      |         **9**             |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **2**      |         **2**             |
+| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
+| **[Basic Rooms](#basics-rooms)**                  |      **7**      |         **3**             |
+| **[Reconnaissance](#recon)**                      |      **7**      |         **1**             |
+| **[Scripting](#scripting)**                       |      **6**      |         **3**             |
+| **[Networking](#networking)**                     |      **5**      |                           |
+| **[Tooling](#tooling)**                           |     **17**      |         **3**             |
+| **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
+| **[Steganography](#steganography)**               |      **6**      |                           |
+| **[Web](#web)**                                   |     **27**      |                           |
+| **[Android](#android)**                           |      **1**      |                           |
+| **[Forensics](#forensics)**                       |      **5**      |                           |
+| **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |
+| **[Reverse Engineering](#reverse-engineering)**   |     **11**      |                           |
+| **[Malware Analysis](#malware-analysis)**         |      **7**      |                           |
+| **[Privilege Escalation](#privesc)**              |     **13**      |                           |
+| **[Windows](#windows)**                           |      **7**      |                           |
+| **[Active Directory](#active-directory)**         |      **5**      |                           |
+| **[PCAP Analysis](#pcap-analysis)**               |      **4**      |                           |
+| **[Buffer Overflow](#bufferoverflow)**            |      **4**      |                           |
+| **[Easy CTF](#easy-ctf)**                         |     **58**      |         **1**             |
+| **[Medium CTF](#medium-ctf)**                     |     **73**      |                           |
+| **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
+| **[Misc](#misc)**                                 |     **35**      |                           |
+| **[Special Events](#special-events)**             |      **9**      |                           |
+| **Total Rooms:**                                  |     **377**     |         **19**            |
 
 ## Intro Rooms
 
@@ -62,15 +62,9 @@
 
 ---
 
-- [ ] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux) - ! ! ! Not Free ! ! !
-
 - [x] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
 - [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-
-- [ ] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2) - ! ! ! Not Free ! ! !
-
-- [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)  - ! ! ! Not Free ! ! !
 
 ## Windows Fundamentals
 
@@ -90,8 +84,6 @@
 
 - [x] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
-- [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity) - ! ! ! Not Free ! ! !
-
 - [x] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
@@ -110,8 +102,6 @@
 
 - [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
-- [ ] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery) - ! ! ! Not Free ! ! !
-
 - [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
 - [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
@@ -119,8 +109,6 @@
 - [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
 - [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
-
-- [ ] [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon) - ! ! ! Not Free ! ! !
 
 - [ ] [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
@@ -140,8 +128,6 @@
 
 - [x] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
-- [ ] [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara) - ! ! ! Not Free ! ! !
-
 ## Networking
 
 ---
@@ -149,8 +135,6 @@
 - [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
-
-- [ ] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan) - ! ! ! Not Free ! ! !
 
 - [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
