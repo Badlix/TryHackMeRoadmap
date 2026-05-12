@@ -33,8 +33,8 @@
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms | Free Room count |
 | ------------------------------------------------- | :-------------: | :-----------------------: | :-------------: |
-| **[Introductory Rooms](#intro-rooms)**            |      **9**      |         **9**             |       *9*       |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |         **2**             |       *2*       |
+| **[Introductory Rooms](#intro-rooms)**            |      **9**      |         **9**             |      **9**      |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |         **2**             |      **2**      |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |                 |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |         **3**             |                 |
 | **[Reconnaissance](#recon)**                      |     **10**      |         **1**             |                 |
