@@ -17,7 +17,7 @@
 | **[Networking](#networking)**                     |      **5**      |                           |
 | **[Tooling](#tooling)**                           |     **17**      |         **3**             |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
-| **[Steganography](#steganography)**               |      **6**      |                           |
+| **[Steganography](#steganography)**               |      **4**      |                           |
 | **[Web](#web)**                                   |     **27**      |                           |
 | **[Android](#android)**                           |      **1**      |                           |
 | **[Forensics](#forensics)**                       |      **5**      |                           |
@@ -198,11 +198,7 @@
 
 ---
 
-- [ ] [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)
-
 - [ ] [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
-
-- [ ] [TryHackMe | Musical Stego](https://tryhackme.com/room/musicalstego)
 
 - [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness)
 
