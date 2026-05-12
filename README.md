@@ -20,7 +20,7 @@
 | **[Steganography](#steganography)**               |      **4**      |                           |
 | **[Web](#web)**                                   |     **18**      |         **1**             |
 | **[Android](#android)**                           |      **1**      |                           |
-| **[Forensics](#forensics)**                       |      **5**      |                           |
+| **[Forensics](#forensics)**                       |      **4**      |                           |
 | **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |
 | **[Reverse Engineering](#reverse-engineering)**   |     **11**      |                           |
 | **[Malware Analysis](#malware-analysis)**         |      **7**      |                           |
@@ -261,8 +261,6 @@
 - [ ] [TryHackMe | Forensics](https://tryhackme.com/room/forensics)
 
 - [ ] [TryHackMe | Memory Forensics](https://tryhackme.com/room/memoryforensics)
-
-- [ ] [TryHackMe | Volatility](https://tryhackme.com/room/bpvolatility)
 
 - [ ] [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
 
