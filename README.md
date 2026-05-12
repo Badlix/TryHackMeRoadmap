@@ -38,7 +38,7 @@
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |      **3**      |
 | **[Basic Rooms](#basics-rooms)**                  |      **8**      |         **3**             |      **7**      |
 | **[Reconnaissance](#recon)**                      |      **9**      |         **1**             |      **7**      |
-| **[Scripting](#scripting)**                       |      **8**      |         **3**             |                 |
+| **[Scripting](#scripting)**                       |      **7**      |         **3**             |      **6**      |
 | **[Networking](#networking)**                     |      **7**      |                           |                 |
 | **[Tooling](#tooling)**                           |     **17**      |         **3**             |                 |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |                 |
@@ -161,13 +161,11 @@
 
 - [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
 
-- [ ] [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
-
 - [x] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
 - [x] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
-- [ ] [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
+- [ ] [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara) - ! ! ! Not Free ! ! !
 
 ## Networking
 
