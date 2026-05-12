@@ -232,9 +232,7 @@
 
 - [ ] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
-
-- [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
+- [x] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 - [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
