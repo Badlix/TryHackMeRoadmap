@@ -210,19 +210,9 @@
 
 ---
 
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
-
-- [ ] [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)
-
 - [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
-- [ ] [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
-
-- [ ] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
-
 - [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
-
-- [ ] [TryHackMe | Web Scanning](https://tryhackme.com/room/rpwebscanning)
 
 - [ ] [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
 
