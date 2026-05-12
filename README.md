@@ -39,7 +39,7 @@
 | **[Basic Rooms](#basics-rooms)**                  |      **8**      |         **3**             |      **7**      |
 | **[Reconnaissance](#recon)**                      |      **9**      |         **1**             |      **7**      |
 | **[Scripting](#scripting)**                       |      **7**      |         **3**             |      **6**      |
-| **[Networking](#networking)**                     |      **7**      |                           |                 |
+| **[Networking](#networking)**                     |      **6**      |                           |      **6**      |
 | **[Tooling](#tooling)**                           |     **17**      |         **3**             |                 |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |                 |
 | **[Steganography](#steganography)**               |      **6**      |                           |                 |
@@ -175,9 +175,7 @@
 
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
-- [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
-
-- [ ] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
+- [ ] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan) - ! ! ! Not Free ! ! !
 
 - [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
