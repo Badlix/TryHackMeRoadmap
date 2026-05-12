@@ -37,7 +37,7 @@
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |         **2**             |      **2**      |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |      **3**      |
 | **[Basic Rooms](#basics-rooms)**                  |      **8**      |         **3**             |      **7**      |
-| **[Reconnaissance](#recon)**                      |     **10**      |         **1**             |                 |
+| **[Reconnaissance](#recon)**                      |      **9**      |         **1**             |      **7**      |
 | **[Scripting](#scripting)**                       |      **8**      |         **3**             |                 |
 | **[Networking](#networking)**                     |      **7**      |                           |                 |
 | **[Tooling](#tooling)**                           |     **17**      |         **3**             |                 |
@@ -135,7 +135,7 @@
 
 - [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
-- [ ] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
+- [ ] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery) - ! ! ! Not Free ! ! !
 
 - [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
@@ -143,11 +143,9 @@
 
 - [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
-- [ ] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
-
 - [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
-- [ ] [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
+- [ ] [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon) - ! ! ! Not Free ! ! !
 
 - [ ] [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
