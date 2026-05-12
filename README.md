@@ -18,7 +18,7 @@
 | **[Tooling](#tooling)**                           |     **17**      |         **3**             |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
 | **[Steganography](#steganography)**               |      **4**      |                           |
-| **[Web](#web)**                                   |     **27**      |                           |
+| **[Web](#web)**                                   |     **18**      |                           |
 | **[Android](#android)**                           |      **1**      |                           |
 | **[Forensics](#forensics)**                       |      **5**      |                           |
 | **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |
