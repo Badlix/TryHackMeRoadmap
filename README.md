@@ -36,7 +36,7 @@
 | **[Introductory Rooms](#intro-rooms)**            |      **9**      |         **9**             |      **9**      |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |         **2**             |      **2**      |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |      **3**      |
-| **[Basic Rooms](#basics-rooms)**                  |      **9**      |         **3**             |                 |
+| **[Basic Rooms](#basics-rooms)**                  |      **8**      |         **3**             |      **7**      |
 | **[Reconnaissance](#recon)**                      |     **10**      |         **1**             |                 |
 | **[Scripting](#scripting)**                       |      **8**      |         **3**             |                 |
 | **[Networking](#networking)**                     |      **7**      |                           |                 |
@@ -115,7 +115,7 @@
 
 - [x] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
-- [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
+- [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity) - ! ! ! Not Free ! ! !
 
 - [x] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
@@ -124,8 +124,6 @@
 - [ ] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
 - [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
-
-- [ ] [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
 
 - [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
